@@ -16,8 +16,4 @@ For this you need:
 1) clone the repository to your computer (by executing the command: git clone <git@github.com>:taypyc/eCommerce-Application.git in the terminal);
 2) run the application using the <b>npm run start</b> command
 
-The application will be available at: <http://localhost:3000/> in the browser.
-
-Runs the app in the development mode.
-
 Open <http://localhost:3000> to view it in your browser.
